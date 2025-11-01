@@ -1,4 +1,4 @@
-# 😸 Hi, I'm CodingSayed
+# Hi, I'm CodingSayed
 
 I'm a **Software Engineering student** passionate about building both **front-end** and **back-end** applications.  
 My current tech stack includes **HTML, CSS, JavaScript, C#**, and **Python**.
