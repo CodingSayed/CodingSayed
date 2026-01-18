@@ -6,4 +6,4 @@ My current tech stack includes **HTML, CSS, JavaScript, TypeScript, C#**, and **
 ## My current activities: 
 - Completing the **Meta Front-End Developer Certificate (Coursera)**  
 - Practicing on [LeetCode](https://leetcode.com/u/codingsayed/)  
-- Exploring **AI and machine learning** as future interests  
+- Working on side projects whenever I get inspired
